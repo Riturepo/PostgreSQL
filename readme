@@ -1,0 +1,22 @@
+PostgreSQL
+
+1.open source
+2.Uses sql query language
+3.use case - financial and health care applications
+
+4. data types -  from primitive (integer,real,varChar)
+
+5.data integrity - UNIQUE,NOT NULL
+
+
+Where it’s used:
+
+Web applications (backend databases).
+
+Financial systems (because of strong data integrity).
+
+Data warehousing & analytics.
+
+Geospatial data (with PostGIS extension).
+
+👉 In short: PostgreSQL = Reliable + Powerful + Flexible database, often considered the “most advanced open-source database in the world.”
